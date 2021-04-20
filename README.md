@@ -17,18 +17,18 @@
 
 <div align='center'>
   <h3>Coding Skills:</h3>
-  <img alt="JavaScript" width="55px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/javascript.svg">
-  <img alt="React"width="60px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/react.svg">
-  <img alt="mongodb" width="120" height="70px" src="https://github.com/John-v77/John-v77/blob/main/picture/mongodb.png">
-  <img alt="MySQL" width="90px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/MySQL-Logo.wine.png">
-  <img alt="htm5" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/html5.svg">
-  <img alt="css3" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/css3.svg">
-  <code><img alt="Bootstrap" width="60px" height="60px" src="https://github.com/John-v77/John-v77/blob/main/picture/Bootstrap.png"></code>
-  <img alt="sass" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/sass-1.svg">
-  <img alt="nodeJS" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/node.png">
-  <img alt="firebase" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/firebase.png">
-  <img alt="Python" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/python.svg">
-  <code><img alt="Django" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/picture/django.svg"></code>
+  <img alt="JavaScript" width="55px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/javascript.svg">
+  <img alt="React"width="60px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg">
+  <img alt="mongodb" width="120" height="70px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png">
+  <img alt="MySQL" width="90px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png">
+  <img alt="htm5" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg">
+  <img alt="css3" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg">
+  <code><img alt="Bootstrap" width="60px" height="60px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
+  <img alt="sass" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg">
+  <img alt="nodeJS" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png">
+  <img alt="firebase" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png">
+  <img alt="Python" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg">
+  <code><img alt="Django" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
  
 </div>
 <!--
