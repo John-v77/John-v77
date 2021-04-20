@@ -27,6 +27,7 @@
   <img alt="sass" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg">
   <img alt="nodeJS" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png">
   <img alt="firebase" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png">
+  <img alt="Redux" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png">
   <img alt="Python" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg">
   <code><img alt="Django" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
  
