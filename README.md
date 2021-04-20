@@ -22,11 +22,13 @@
   <img alt="mongodb" width="120" height="70px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png">
   <img alt="MySQL" width="90px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png">
   <br>
+  <br>
   <img alt="htm5" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg">
   <img alt="css3" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg">
   <code><img alt="Bootstrap" width="60px" height="60px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
   <img alt="sass" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg">
   <img alt="nodeJS" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png">
+  <br>
   <br>
   <img alt="firebase" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png">
   <img alt="Redux" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png">
