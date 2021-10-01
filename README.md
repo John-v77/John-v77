@@ -8,7 +8,7 @@
     <h4>These are few projects created recently </h4>
     <p><a href='https://john-v77.github.io/Portfolio-Lab/'>UX Portfolio </a> — Sample portfolio site integrating interactive, responsive, and atomic design for empathetic UX </p>
     <p><a href='https://trade-smart.netlify.app'>Trade-smart</a> — A application to monitor the stock market prices and news related to the market</p>
-    <p><a href='https://whynew.herokuapp.com'>Travelo</a> — A application that started as a online store but has the versatility to become a travel app as well</p>
+    <p><a href='https://whynew.herokuapp.com'>Travel Free</a> — A application that started as a online store but has the versatility to become a travel app as well</p>
   </p>
 </div>
 
