@@ -1,4 +1,3 @@
-##
   <div align='center'>
   <p width='250px'>
     <h3>Hi there!</h3>
@@ -7,8 +6,6 @@
     
   </p>
   </div>
-##
-##
 
 <div align='left'>
   <p width='250px'>
@@ -20,8 +17,6 @@
   </p>
 </div>
 
-##
-##
 
 <div align='center'>
   <h3>Coding Skills:</h3>
@@ -39,8 +34,7 @@
   <code><img alt="MySQL" width="64px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
   <code><img alt="mongodb" width="64" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
 </div>
-##
-##
+
   <div align='center'>
         <a href="https://github.com/john-v77" target="_blank">
           <img alt="Git Hub View Counter" src="https://komarev.com/ghpvc/?username=john-v77&style=flat-square&color=blueviolet" />
@@ -56,7 +50,6 @@
           <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-v77&layout=compact&theme=synthwave" />
         </a>  
   </div>
-##
 
 <!--
 **John-v77/John-v77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
