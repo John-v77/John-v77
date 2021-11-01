@@ -6,6 +6,8 @@
     
   </p>
   </div>
+  ##
+
 
 <div align='left'>
   <p width='250px'>
@@ -17,6 +19,7 @@
   </p>
 </div>
 
+##
 
 <div align='center'>
   <h3>Coding Skills:</h3>
@@ -34,7 +37,10 @@
   <code><img alt="MySQL" width="64px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
   <code><img alt="mongodb" width="64" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
 </div>
-<br>
+
+##
+##
+
   <div align='center'>
         <a href="https://github.com/john-v77" target="_blank">
           <img alt="Git Hub View Counter" src="https://komarev.com/ghpvc/?username=john-v77&style=flat-square&color=blueviolet" />
@@ -42,8 +48,10 @@
         <a href="https://github.com/john-v77/john-v77" target="_blank">
           <img alt="GitHub Hits" src="https://img.shields.io/github/last-commit/John-v77/John-v77?label=Profile%20Updated&style=flat-square" />
         </a>
-        <br>
-        <br>
+  </div>
+  <br>
+##
+  <div align='center'>
         <a href="https://github.com/John-v77">
           <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=John-v77&show_icons=true&theme=synthwave" />
         </a>
