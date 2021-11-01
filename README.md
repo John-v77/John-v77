@@ -26,20 +26,17 @@
   <h3>Coding Skills:</h3>
   <code><img alt="JavaScript" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/javascript.svg"></code>
   <code><img alt="React"width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code>
-  <code><img alt="mongodb" width="32" height="64px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
+  <code><img alt="mongodb" width="64" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
   <code><img alt="htm5" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>
   <code><img alt="css3" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg"></code>
-  
-  <br>
-  <br>
   <code><img alt="nodeJS" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png"></code>
-<!--   <code><img alt="firebase" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png"></code> -->
-<!--   <code><img alt="Redux" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"></code> -->
-  <code><img alt="MySQL" width="90px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
-  <code><img alt="Python" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg"></code>
-  <code><img alt="Django" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
-  <code><img alt="sass" width="50px" height="50px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
-  <code><img alt="Bootstrap" width="60px" height="60px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
+<!--   <code><img alt="firebase" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png"></code> -->
+<!--   <code><img alt="Redux" width="50px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"></code> -->
+  <code><img alt="MySQL" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
+  <code><img alt="Python" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg"></code>
+  <code><img alt="Django" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
+  <code><img alt="sass" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
+  <code><img alt="Bootstrap" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
 </div>
 
 ##
@@ -52,7 +49,7 @@
         </a>
         <br>
         <a href="https://github.com/john-v77>
-        <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=John-v77&show_icons=true&theme=synthwave" />
+          <code><img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=John-v77&show_icons=true&theme=synthwave" /></code>
         </a>
         <a href="https://github.com/john-v77>
           <img alt="Git Hub Language Counter" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=John-v77&layout=compact&theme=synthwave" />
