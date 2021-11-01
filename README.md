@@ -26,24 +26,24 @@
   <h3>Coding Skills:</h3>
   <code><img alt="JavaScript" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/javascript.svg"></code>
   <code><img alt="React"width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code>
-  <code><img alt="mongodb" width="64" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
   <code><img alt="htm5" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>
   <code><img alt="css3" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg"></code>
   <code><img alt="nodeJS" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png"></code>
 <!--   <code><img alt="firebase" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.png"></code> -->
 <!--   <code><img alt="Redux" width="50px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"></code> -->
-  <code><img alt="MySQL" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
   <code><img alt="Python" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg"></code>
   <code><img alt="Django" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
   <code><img alt="sass" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
   <code><img alt="Bootstrap" width="32px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
+  <code><img alt="MySQL" width="64px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/MySQL-Logo.wine.png"></code>
+  <code><img alt="mongodb" width="64" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
 </div>
 
 ##
   <div align='center'>
-        <a href="https://github.com/john-v77" target="_blank">
-          <img alt="Git Hub View Counter" src="https://komarev.com/ghpvc/?username=John-v77&style=flat-square&color=blueviolet" />
-        </a>
+          <a href="https://github.com/John-v77">
+            <img alt="Git Hub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=John-v77&show_icons=true&theme=synthwave" />
+          </a>
         <a href="https://github.com/john-v77/john-v77" target="_blank">
           <img alt="GitHub Hits" src="https://img.shields.io/github/last-commit/John-v77/John-v77?label=Profile%20Updated&style=flat-square" />
         </a>
