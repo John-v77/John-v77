@@ -48,7 +48,7 @@
   <code><img alt="firebase" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.svg"></code>
   <code><img alt="mysql" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mysql.svg"></code>
   <code><img alt="aws" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Aws.svg"></code>
-  <code><img alt="lamnda" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/lambda.svg"></code>
+  <code><img alt="lamnda" width="40px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/lambda.svg"></code>
   <code><img alt="sass" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
   <code><img alt="htm5" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>
   <code><img alt="css3" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg"></code>
