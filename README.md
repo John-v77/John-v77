@@ -34,7 +34,7 @@
   
   <code><img alt="JavaScript" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/javascript.svg"></code>
   <code><img alt="Python" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg"></code>
-  <code><img alt="React"width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code>
+  <!-- <code><img alt="React"width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code> -->
   <code><img alt="NodeJS" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png"></code>
   <code><img alt="GraphQL" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/graphql.com.svg"></code>
   <code><img alt="Apollo" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/apollo.svg"></code>
@@ -47,7 +47,7 @@
   
   <code><img alt="firebase" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.svg"></code>
   <code><img alt="mysql" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mysql.svg"></code>
-  <code><img alt="aws" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Aws.png"></code>
+  <code><img alt="aws" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Aws.svg"></code>
   <code><img alt="lamnda" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/sql.png"></code>
   <code><img alt="sass" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
   <code><img alt="htm5" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>
