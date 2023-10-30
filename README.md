@@ -39,17 +39,16 @@
   <code><img alt="GraphQL" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/graphql.com.svg"></code>
   <code><img alt="Apollo" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/apollo.svg"></code>
   <code><img alt="Redux" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"></code>
-  <code><img alt="tailwind" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/tailwind.png"></code>
-  <code><img alt="mongodb" width="64" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
+  <code><img alt="tailwind" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/tailwind.png"></code>
+  <code><img alt="mongodb" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
   
   
   <h4>Experienced With:</h4>
   
   <code><img alt="firebase" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/firebase.svg"></code>
   <code><img alt="mysql" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mysql.svg"></code>
-  <code><img alt="aws" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/aws.png"></code>
+  <code><img alt="aws" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Aws.png"></code>
   <code><img alt="lamnda" width="64px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/sql.png"></code>
-  <code><img alt="Django" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
   <code><img alt="sass" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/sass-1.svg"></code>
   <code><img alt="htm5" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>
   <code><img alt="css3" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg"></code>
@@ -57,6 +56,7 @@
 
 
   <h4>Good Exposure To:</h4>
+  <code><img alt="Django" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>
   <code><img alt="Bootstrap" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>
   <code><img alt="Figma" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/figma.svg"></code>
   
