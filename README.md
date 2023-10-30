@@ -38,8 +38,8 @@
   <code><img alt="NodeJS" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png"></code>
   <code><img alt="GraphQL" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/graphql.com.svg"></code>
   <code><img alt="Apollo" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/apollo.svg"></code>
-  <code><img alt="Redux" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"></code>
-  <code><img alt="tailwind" width="120px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/tailwind.png"></code>
+  <code><img alt="Redux" width="40px" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/Redux.png"><br></code>
+  <code><img alt="tailwind" width="120px" height="32px" src="https://github.com/John-v77/John-v77/blob/main/icons/tailwind.png"></code>
   <code><img alt="mongodb" height="40px" src="https://github.com/John-v77/John-v77/blob/main/icons/mongodb.png"></code>
   
   
