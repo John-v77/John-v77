@@ -1,8 +1,7 @@
   <div align='left'>
   <p width='250px'>
     <h3>Hi there!</h3>
-    I am a graduate of Ironhacks WebDev bootcamp, currently working as a junior full stack developer in PETAL stack.
-    <br>
+    Passionate Full Stack Web Developer with a mission to create and develop innovative software solutions to strengthen business productivity. Beyond the 400+ hours of intensive training from Ironhack Coding Academy, I am constantly learning to code from resources like Udemy, RuneStone Academy and Harvard (CS50). Well-versed in using the MERN tech stack to create systems that are reliable and effective. Eager to join a driven team and have a direct impact on their success.
     I have good experience with React, Redux, Firebase and Node.js, comfortable coding on the front-end and back-end.
     <br>
   <!--  I can provide access to private repositories upon request. -->
