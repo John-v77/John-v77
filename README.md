@@ -20,7 +20,7 @@
     <h3>My projects:</h3>    
   <p><a href='https://bcool-clothing.netlify.app/' target="_blank">Bcool </a> — Front-end E-commerce project using React, Redux, Firebase, Google Auth, Stripe, Sass and Styled-components.</p>
   <p><a href='https://trueadventure-b188756df7c0.herokuapp.com' target="_blank">Travel.</a> — Fullstack Travel website using MERN stack: MongoDB, Express, React, NodeJs, Redux Toolkit and Tailwind.</p>
-  <p><a href='https://trade-stock-smart.netlify.app/' target="_blank">Trade Smart</a> — Front-end API consumer using React, Tailwind and Finnhub stock api./</p>
+  <p><a href='https://trade-stock-smart.netlify.app/' target="_blank">Trade Smart</a> — Front-end API consumer using React, Tailwind and Finnhub stock api.</p>
   
  
   <!-- <p><a href='https://john-vasile.netlify.app' target="_blank" rel="noreferrer noopener">My Portfolio</a> — This application features all my completed projects, it was using Sass, JavaScript and Html, and is fully responsive.</p> -->
