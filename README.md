@@ -36,8 +36,9 @@ traffic, debugging effectively, and maintaining business plan implementation.
   <br>
   <h4>Preferred / Proficient. My ideal day-to-day!</h4>
   <code><img alt="JavaScript" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/javascript.svg" padding='10px'></code>&nbsp; &nbsp; &nbsp;
+  <code><img alt="React" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="Python" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/python.svg"></code>&nbsp; &nbsp; &nbsp;
-   <code><img alt="React" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/react.svg"></code>&nbsp; &nbsp; &nbsp;
+  <code><img alt="Django" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="NodeJS" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/node.png"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="GraphQL" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/graphql.com.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="Apollo" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/apollo.svg"></code>&nbsp; &nbsp; &nbsp;
@@ -61,8 +62,6 @@ traffic, debugging effectively, and maintaining business plan implementation.
 
 <br>
   <h4>Good Exposure To:</h4>
-  
-  <code><img alt="Django" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/django.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="Bootstrap" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="Figma" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/figma.svg"></code>&nbsp; &nbsp; &nbsp;
 
