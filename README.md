@@ -59,18 +59,19 @@ traffic, debugging effectively, and maintaining business plan implementation.
   <code><img alt="htm5" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/html5.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="css3" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/css3.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="git" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/git.svg"></code>&nbsp; &nbsp; &nbsp;
+  <code><img alt="typeScript" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/typeScript.svg"></code>&nbsp; &nbsp; &nbsp;
+  <code><img alt="dockers" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/docker.svg"></code>&nbsp; &nbsp; &nbsp;
 
 <br>
   <h4>Good Exposure To:</h4>
   <code><img alt="Bootstrap" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/Bootstrap.png"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="Figma" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/figma.svg"></code>&nbsp; &nbsp; &nbsp;
+ 
 
   <br>
   <h4>Currently Experimenting With:</h4>
   
   <code><img alt="kubernetes" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/kubernetes.svg"></code>&nbsp; &nbsp; &nbsp;
-  <code><img alt="dockers" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/docker.svg"></code>&nbsp; &nbsp; &nbsp;
-  <code><img alt="typeScript" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/typeScript.svg"></code>&nbsp; &nbsp; &nbsp;
   <code><img alt="redis" width="36px" height="36px" src="https://github.com/John-v77/John-v77/blob/main/icons/redis.svg"></code>&nbsp; &nbsp; &nbsp;
   
 
