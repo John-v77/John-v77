@@ -1,9 +1,10 @@
   <div align='left'>
   <p width='250px'>
-    Analytical full stack web development professional with 1+ years of extensive experience managing a diverse range of tasks to
+    <!-- Analytical full stack web development professional with 1+ years of extensive experience managing a diverse range of tasks to
 contribute towards revenue growth and organizational success as well as a responsive team collaborator with a remarkable
 skill set translating requirements into results by planning performance metrics, designing software solutions, improving web
-traffic, debugging effectively, and maintaining business plan implementation.
+traffic, debugging effectively, and maintaining business plan implementation. -->
+    Full-stack developer with a strong focus on TypeScript and experience in Python and Elixir. Interested in software architecture, backend systems, API development, and building efficient, maintainable solutions.
     <br>
   <!--  I can provide access to private repositories upon request. -->
     
