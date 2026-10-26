@@ -20,7 +20,7 @@ traffic, debugging effectively, and maintaining business plan implementation. --
 <div align='left'>
   <p width='250px'>
     <h3>My projects:</h3>    
-  <p><a href='https://john-v.dev/' target="_blank">Travel.</a> — Travel api: MongoDB, Express, NodeJs, TypeScript. </p>
+  <p><a href='https://john-v.dev/' target="_blank">Voyara</a> — Travel api: MongoDB, Express, NodeJs, TypeScript. </p>
   <!-- <p><a href='https://bcool-clothing.netlify.app/' target="_blank">Bcool </a> — Front-end E-commerce project using React, Redux, Firebase, Google Auth, Stripe, Sass and Styled-components.</p> -->
   <!-- <p><a href='https://trade-stock-smart.netlify.app/' target="_blank">Trade Smart</a> — Front-end API consumer using React, Tailwind and Finnhub stock api.</p> -->
   
